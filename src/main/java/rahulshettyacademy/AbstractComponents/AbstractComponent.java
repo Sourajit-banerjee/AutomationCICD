@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import rahulshettyacademy.pageobjects.CartPage;
 import rahulshettyacademy.pageobjects.OrderPage;
-//just  comment so that we can add a new commit to see the working of github webhooks
+//just  a comment so that we can add a new commit to see the working of github webhooks
 
 public class AbstractComponent {
 	
